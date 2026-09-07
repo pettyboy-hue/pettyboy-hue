@@ -5,7 +5,7 @@
 
 <!-- 动态打字效果 -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Flutter+%7C+React+%7C+Python+%7C+Node.js;AI+Enthusiast+%26+Voice+Assistant+Builder+%F0%9F%A4%96;Always+building+cool+stuff+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Flutter+%7C+React+%7C+Python+%7C+Node.js;AI+Enthusiast+%26+Voice+Assistant+Builder+%F0%9F%A4%96;%E5%85%88%E8%B7%91%E8%B5%B7%E6%9D%A5%EF%BC%8C%E5%86%8D%E6%85%A2%E6%85%A2%E4%BC%98%E5%8C%96+%F0%9F%9A%80;while(alive)+%7B+eat()+sleep()+code()+%7D" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -13,28 +13,63 @@
 <!-- 社交徽章 -->
 [![GitHub](https://img.shields.io/badge/GitHub-pettyboy--hue-181717?style=for-the-badge&logo=github)](https://github.com/pettyboy-hue)
 [![Email](https://img.shields.io/badge/Email-1531137627@qq.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1531137627@qq.com)
+[![Bilibili](https://img.shields.io/badge/Bilibili-关注我-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/)
 
 </div>
 
 ---
 
-### 🧑‍💻 About Me
+<!-- 终端风格自我介绍 -->
+### 💻 `$ whoami`
 
-```yaml
-name: Pettyboy
-role: Full Stack Developer
-location: China 🇨🇳
-interests:
-  - 🎯 跨平台开发 (Flutter / React)
-  - 🤖 AI 应用 (J.A.R.V.I.S. 语音助手)
-  - 🐧 运维自动化 (Linux / Docker)
-  - 🔐 逆向工程 & 安全研究
-currently_working_on:
-  - 📱 反诈骗 App (Flutter)
-  - 🗣️ J.A.R.V.I.S. 语音助手
-  - 📚 个人知识库系统
-motto: "先跑起来，再慢慢优化"
+```bash
+pettyboy@github:~$ neofetch
 ```
+
+```
+                    ██████████████                pettyboy@earth
+                ████              ████            ──────────────
+              ██                      ██          🏷️  Name:     Pettyboy
+            ██                          ██        💼  Role:     Full Stack Developer
+          ██      ████          ████      ██      📍  Location: China 🇨🇳
+          ██    ██    ██      ██    ██    ██      🎂  Status:   Alive & Coding
+        ██      ██    ██      ██    ██      ██    ☕  Fuel:     Coffee × ∞
+        ██        ████          ████        ██    
+        ██                                  ██    🔭  Working:  反诈 App / J.A.R.V.I.S.
+        ██      ██                  ██      ██    🌱  Learning: Rust / AI Agents
+          ██      ████████████████        ██      🎯  Focus:    跨平台 / AI 应用 / 安全
+          ██                              ██      💬  Ask me:   Flutter, Python, Linux
+            ██                          ██        🐧  OS:       Arch Linux (btw)
+              ████                  ████          🎮  Hobbies:  逆向 / CTF / 摸鱼
+                  ████████████████                ⚡  Motto:    "先跑起来，再慢慢优化"
+```
+
+---
+
+### 🎯 Skill Radar
+
+<div align="center">
+
+```
+              ★ Flutter / Dart ★
+                    ████████████████████░  95%
+              ★ Python / FastAPI ★
+                    ███████████████████░░  90%
+              ★ JavaScript / TS ★
+                    ██████████████████░░░  85%
+              ★ React / Node.js ★
+                    ██████████████████░░░  85%
+              ★ Linux / DevOps ★
+                    █████████████████░░░░  80%
+              ★ C++ / Rust ★
+                    ████████████████░░░░░  75%
+              ★ Reverse Eng ★
+                    ██████████████░░░░░░░  65%
+              ★ AI / LLM ★
+                    ███████████████░░░░░░  70%
+```
+
+</div>
 
 ---
 
@@ -87,6 +122,7 @@ motto: "先跑起来，再慢慢优化"
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 </div>
 
@@ -133,11 +169,56 @@ motto: "先跑起来，再慢慢优化"
 
 ---
 
+### 😂 Random Dev Meme
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&qColor=%2358A6FF&aColor=%23FF6B6B" alt="Jokes Card" />
+</div>
+
+---
+
 <div align="center">
 
 ### 💡 Random Dev Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<br/><br/>
+
+### 🎵 Vibing to
+
+> *"Any application that can be written in JavaScript, will eventually be written in JavaScript."* — Jeff Atwood
+
+<br/>
+
+<!-- 有趣的状态指示器 -->
+<table>
+  <tr>
+    <td align="center">🔋 Energy</td>
+    <td align="center">████████░░ 80%</td>
+  </tr>
+  <tr>
+    <td align="center">☕ Coffee</td>
+    <td align="center">██████████ MAX</td>
+  </tr>
+  <tr>
+    <td align="center">🐟 摸鱼</td>
+    <td align="center">█████████░ 90%</td>
+  </tr>
+  <tr>
+    <td align="center">💻 Coding</td>
+    <td align="center">███████░░░ 70%</td>
+  </tr>
+  <tr>
+    <td align="center">🧠 Brain</td>
+    <td align="center">██████░░░░ 60%</td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- 有趣的 GIF -->
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <br/><br/>
 
@@ -147,6 +228,38 @@ motto: "先跑起来，再慢慢优化"
 <br/><br/>
 
 ⭐ **From [pettyboy-hue](https://github.com/pettyboy-hue)** — 如果你也觉得有趣，欢迎 Star!
+
+<br/>
+
+<!-- 彩蛋：Konami Code -->
+<details>
+<summary>🎮 Secret Zone — 点击展开隐藏彩蛋</summary>
+<br/>
+
+```
+ ██████╗  █████╗ ███╗   ███╗███████╗     ██████╗ ██╗   ██╗███████╗██████╗ 
+██╔════╝ ██╔══██╗████╗ ████║██╔════╝    ██╔═══██╗██║   ██║██╔════╝██╔══██╗
+██║  ███╗███████║██╔████╔██║█████╗      ██║   ██║██║   ██║█████╗  ██████╔╝
+██║   ██║██╔══██║██║╚██╔╝██║██╔══╝      ██║   ██║╚██╗ ██╔╝██╔══╝  ██╔══██╗
+╚██████╔╝██║  ██║██║ ╚═╝ ██║███████╗    ╚██████╔╝ ╚████╔╝ ███████╗██║  ██║
+ ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝     ╚═════╝   ╚═══╝  ╚══════╝╚═╝  ╚═╝
+```
+
+🏆 恭喜你发现了隐藏区域！
+
+**一些关于我的冷知识：**
+- 🔧 第一行代码是用 Python 写的 `print("Hello World")`
+- 🎮 曾经因为想做游戏外挂而学会了逆向工程
+- 🤖 J.A.R.V.I.S. 这个名字确实是致敬钢铁侠
+- 🐛 Debug 的时候听的最多的歌是 Lo-Fi Hip Hop
+- 📱 手机里装了 3 个不同的终端模拟器
+- 🌙 最高效的编码时间是凌晨 2-5 点
+
+<img src="https://media.giphy.com/media/3oKIPnAiaMCJ8rJBIc/giphy.gif" width="200"/>
+
+*"你已经是一个成熟的开发者了，要学会自己 Debug。"*
+
+</details>
 
 <!-- 底部渐变 -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
