@@ -1,30 +1,29 @@
 <div align="center">
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░ HEADER ░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════ HEADER ═══════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1b4b,50:7c3aed,75:06b6d4,100:0d1117&height=220&section=header&text=PETTYBOY&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%20%E2%80%A2%20%20AI%20Enthusiast%20%20%E2%80%A2%20%20Open%20Source&descSize=14&descColor=a5b4fc&descAlignY=58"/>
 
-<!-- 打字动画：简洁有力 -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=7C3AED&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=45&lines=%E2%9A%A1+Building+the+future%2C+one+commit+at+a+time;%F0%9F%94%AE+Turning+coffee+into+code+since+forever;%F0%9F%9A%80+Ship+fast%2C+break+nothing%2C+sleep+later" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=7C3AED&center=true&vCenter=true&multiline=false&repeat=true&width=520&height=45&lines=%24+./deploy.sh+--env+production+🚀;%24+git+push+origin+main+--force-with-lease+⚡;%24+python+jarvis.py+--wake+🤖;while(alive)+%7B+eat()+sleep()+code()+%7D" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- 社交徽章：紧凑 -->
-[![GitHub](https://img.shields.io/badge/pettyboy--hue-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pettyboy-hue)
-&ensp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:1531137627@qq.com)
-&ensp;
-[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/)
-&ensp;
-![Views](https://komarev.com/ghpvc/?username=pettyboy-hue&style=flat-square&color=7c3aed&label=Profile+Views)
+<!-- 实时徽章：动态 star/follower 计数 -->
+<a href="https://github.com/pettyboy-hue?tab=followers">
+  <img src="https://custom-icon-badges.demolab.com/github/followers/pettyboy-hue?style=for-the-badge&logo=person-add&logoColor=white&label=Followers&labelColor=7c3aed&color=1a1b4b"/>
+</a>&ensp;
+<a href="https://github.com/pettyboy-hue?tab=repositories&sort=stargazers">
+  <img src="https://custom-icon-badges.demolab.com/github/stars/pettyboy-hue?style=for-the-badge&logo=star&logoColor=white&label=Stars&labelColor=06b6d4&color=0d4f61"/>
+</a>&ensp;
+<img src="https://komarev.com/ghpvc/?username=pettyboy-hue&style=for-the-badge&color=0d1117&label=VIEWS"/>
 
 </div>
 
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░ ABOUT ░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
 
 ## `> whoami`
 
@@ -41,31 +40,24 @@ const pettyboy = {
 
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░ TECH STACK ░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 
 ## ⚡ Tech Stack
 
 <div align="center">
 
-<!-- skill-icons：更现代更好看的技术图标 -->
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,dart,js,ts,cpp,rust,java&theme=dark" alt="Languages" />
 </a>
-
 <br/>
-
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,fastapi,nodejs,express&theme=dark" alt="Frameworks" />
 </a>
-
 <br/>
-
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,vscode,neovim&theme=dark" alt="Tools" />
 </a>
-
 <br/>
-
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=mysql,redis,mongodb,sqlite&theme=dark" alt="Databases" />
 </a>
@@ -74,80 +66,98 @@ const pettyboy = {
 
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░ PROJECTS ░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
-<h3 align="center">🤖 J.A.R.V.I.S.</h3>
-<p align="center">
-  <a href="https://github.com/pettyboy-hue/jarvis-voice-assistant">
-    <img src="https://img.shields.io/badge/AI_Voice_Assistant-7c3aed?style=for-the-badge&logo=openai&logoColor=white" alt="JARVIS"/>
-  </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Whisper-FF6F00?style=flat-square&logo=openai&logoColor=white"/>
-</p>
-<p align="center"><em>基于 LLM 的个人 AI 语音助手<br/>语音唤醒 → 语音识别 → 智能对话 → 语音回复</em></p>
-
-</td>
-<td width="50%">
-
-<h3 align="center">🛡️ 反诈 App</h3>
-<p align="center">
-  <a href="https://github.com/pettyboy-hue">
-    <img src="https://img.shields.io/badge/Anti_Fraud_App-06b6d4?style=for-the-badge&logo=flutter&logoColor=white" alt="Anti-Fraud"/>
-  </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-</p>
-<p align="center"><em>Flutter 跨平台反诈骗应用<br/>AI 诈骗识别 → 风险预警 → 安全教育</em></p>
-
-</td>
-</tr>
-</table>
+<a href="https://github.com/pettyboy-hue/jarvis-voice-assistant">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=pettyboy-hue&repo=jarvis-voice-assistant&theme=react&bg_color=0d1117&title_color=7c3aed&hide_border=true&icon_color=06b6d4" alt="JARVIS"/>
+</a>&ensp;
+<a href="https://github.com/pettyboy-hue/pettyboy-hue">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=pettyboy-hue&repo=pettyboy-hue&theme=react&bg_color=0d1117&title_color=7c3aed&hide_border=true&icon_color=06b6d4" alt="Profile"/>
+</a>
 
 </div>
 
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░ STATS ░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════ SMART SECTION: RECENT ACTIVITY ═══════════════════════ -->
+
+## 📡 Real-Time Activity Feed
+
+> 🤖 *自动更新 — 由 GitHub Actions 驱动*
+
+<!--START_SECTION:activity-->
+<!-- 这里将由 jamesgeorge007/github-activity-readme Action 自动填充 -->
+1. 🎉 Created this awesome profile!
+2. ⬆️ Stay tuned — activity will appear here once the Action runs...
+<!--END_SECTION:activity-->
+
+<br/>
+
+<!-- ═══════════════════════ SMART SECTION: WAKATIME ═══════════════════════ -->
+
+## ⏱️ Weekly Dev Metrics
+
+> 🤖 *数据来自 WakaTime — 每天自动刷新*
+
+<!--START_SECTION:waka-->
+```txt
+🔧 Setup Required — 配置 WakaTime 后这里会自动显示：
+📊 本周编码时间  |  🌅 你是早起鸟还是夜猫子
+💻 最常用编辑器  |  🗣️ 最常用语言
+📁 最活跃项目    |  🖥️ 操作系统占比
+```
+<!--END_SECTION:waka-->
+
+<br/>
+
+<!-- ═══════════════════════ PROFILE SUMMARY CARDS ═══════════════════════ -->
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=pettyboy-hue&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=06b6d4&text_color=c9d1d9&ring_color=7c3aed&count_private=true&include_all_commits=true" />
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pettyboy-hue&layout=compact&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&langs_count=8" />
+<!-- Profile Summary Cards: 5张智能卡片自动生成 -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pettyboy-hue&theme=tokyonight" width="95%"/>
 
-<br/><br/>
+<br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=pettyboy-hue&hide_border=true&background=0d1117&stroke=1a1b4b&ring=7c3aed&fire=06b6d4&currStreakLabel=7c3aed&sideLabels=7c3aed&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=484f58" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pettyboy-hue&theme=tokyonight" width="31.5%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pettyboy-hue&theme=tokyonight" width="31.5%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pettyboy-hue&theme=tokyonight" width="31.5%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pettyboy-hue&theme=tokyonight&utcOffset=8" width="47%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pettyboy-hue&hide_border=true&background=1a1b27&stroke=1a1b4b&ring=7c3aed&fire=06b6d4&currStreakLabel=7c3aed&sideLabels=7c3aed&currStreakNum=c0caf5&sideNums=c0caf5&dates=484f58" width="47%"/>
 
 </div>
 
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░ TROPHIES ░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════ 3D CONTRIBUTION ═══════════════════════ -->
+
+## 🏔️ 3D Contribution Map
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pettyboy-hue&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=7" />
+
+<!-- 由 yoshi389111/github-profile-3d-contrib Action 自动生成 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-south-season-animate.svg" />
+  <img alt="3D Contribution" src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%"/>
+</picture>
+
+<sub>🔄 每日自动更新的 3D 等距贡献地图</sub>
+
 </div>
 
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░ SNAKE ░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════ SNAKE ═══════════════════════ -->
 
 ## 🐍 Contribution Snake
 
@@ -161,15 +171,23 @@ const pettyboy = {
 
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░ ACTIVITY GRAPH ░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════ ACTIVITY GRAPH ═══════════════════════ -->
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=pettyboy-hue&bg_color=0d1117&color=7c3aed&line=06b6d4&point=7c3aed&area=true&area_color=7c3aed15&hide_border=true&custom_title=Commit%20Activity" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=pettyboy-hue&bg_color=0d1117&color=7c3aed&line=06b6d4&point=7c3aed&area=true&area_color=7c3aed15&hide_border=true&custom_title=📈%20Commit%20Activity%20(auto-updated)" />
 </div>
 
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░ INTERACTIVE ░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════ TROPHIES ═══════════════════════ -->
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pettyboy-hue&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=7" />
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ INTERACTIVE ═══════════════════════ -->
 
 ## 🎮 Interactive Zone
 
@@ -201,13 +219,13 @@ const pettyboy = {
 </td>
 <td align="center" width="33%">
 
-<a href="https://github.com/pettyboy-hue/pettyboy-hue/issues/new?title=VOTE%3A+%5Blanguage%5D&body=%F0%9F%97%B3%EF%B8%8F+My+favorite+language+is+%5Blanguage%5D!&labels=poll">
-  <img width="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Ballot%20Box%20with%20Ballot.png"/>
+<a href="https://github.com/pettyboy-hue/pettyboy-hue/issues/new?title=COLLAB%3A+%5Bidea%5D&body=%F0%9F%A4%9D+Let%27s+build+something+together!%0A%0AIdea%3A+%5Bdescription%5D%0ATech%3A+%5Btech+stack%5D&labels=collaboration">
+  <img width="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png"/>
   <br/>
-  <b>Vote: Best Lang?</b>
+  <b>Collaborate</b>
 </a>
 
-<sub>Cast your vote!</sub>
+<sub>Let's build together!</sub>
 
 </td>
 </tr>
@@ -215,14 +233,13 @@ const pettyboy = {
 
 <br/>
 
-<!-- 随机开发者笑话 -->
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&qColor=%237c3aed&aColor=%2306b6d4&bgColor=%230d1117" alt="Jokes Card" />
 
 </div>
 
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░ SECRET ░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════ SECRET ═══════════════════════ -->
 
 <div align="center">
 
@@ -261,7 +278,7 @@ const pettyboy = {
 
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░ FOOTER ░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 
 <div align="center">
 
@@ -269,17 +286,18 @@ const pettyboy = {
 
 <br/><br/>
 
-```
-💬 "If you found this profile interesting, let's connect!"
-```
-
 <a href="https://github.com/pettyboy-hue?tab=followers">
   <img src="https://custom-icon-badges.demolab.com/github/followers/pettyboy-hue?style=for-the-badge&logo=person-add&logoColor=white&label=Follow&labelColor=7c3aed&color=1a1b4b"/>
-</a>
-&ensp;
+</a>&ensp;
 <a href="https://github.com/pettyboy-hue?tab=repositories">
   <img src="https://custom-icon-badges.demolab.com/badge/Repositories-Check%20Out-06b6d4?style=for-the-badge&logo=repo&logoColor=white&labelColor=0d1117"/>
 </a>
+
+<br/><br/>
+
+<sub>🤖 This profile is <b>self-updating</b> — powered by GitHub Actions, WakaTime, and 3D Contrib</sub>
+<br/>
+<sub>Last auto-update: <!-- LAST_UPDATE_PLACEHOLDER -->daily at 00:00 UTC</sub>
 
 <br/><br/>
 
