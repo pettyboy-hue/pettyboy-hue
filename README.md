@@ -5,8 +5,14 @@
 
 <!-- 动态打字效果 -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=520&lines=Full+Stack+Developer+%F0%9F%92%BB;Flutter+%7C+React+%7C+Python+%7C+Node.js;Always+learning+new+things+%F0%9F%9A%80;Building+cool+stuff+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Flutter+%7C+React+%7C+Python+%7C+Node.js;AI+Enthusiast+%26+Voice+Assistant+Builder+%F0%9F%A4%96;Always+building+cool+stuff+%E2%9C%A8" alt="Typing SVG" />
 </a>
+
+<br/>
+
+<!-- 社交徽章 -->
+[![GitHub](https://img.shields.io/badge/GitHub-pettyboy--hue-181717?style=for-the-badge&logo=github)](https://github.com/pettyboy-hue)
+[![Email](https://img.shields.io/badge/Email-1531137627@qq.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1531137627@qq.com)
 
 </div>
 
@@ -19,16 +25,30 @@ name: Pettyboy
 role: Full Stack Developer
 location: China 🇨🇳
 interests:
-  - 跨平台开发 (Flutter / React)
-  - AI 应用 (J.A.R.V.I.S. 语音助手)
-  - 运维自动化 (Linux / Docker)
-  - 逆向工程 & 安全研究
+  - 🎯 跨平台开发 (Flutter / React)
+  - 🤖 AI 应用 (J.A.R.V.I.S. 语音助手)
+  - 🐧 运维自动化 (Linux / Docker)
+  - 🔐 逆向工程 & 安全研究
 currently_working_on:
-  - 反诈骗 App (Flutter)
-  - J.A.R.V.I.S. 语音助手
-  - 个人知识库系统
+  - 📱 反诈骗 App (Flutter)
+  - 🗣️ J.A.R.V.I.S. 语音助手
+  - 📚 个人知识库系统
 motto: "先跑起来，再慢慢优化"
 ```
+
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/pettyboy-hue/jarvis-voice-assistant">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=pettyboy-hue&repo=jarvis-voice-assistant&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B6B" />
+</a>
+
+</div>
+
+> 🔨 更多项目正在路上… Stay tuned!
 
 ---
 
@@ -44,6 +64,7 @@ motto: "先跑起来，再慢慢优化"
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Frameworks & Tools**
 
@@ -53,12 +74,19 @@ motto: "先跑起来，再慢慢优化"
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 **Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**AI & ML**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
 
 </div>
 
@@ -107,8 +135,18 @@ motto: "先跑起来，再慢慢优化"
 
 <div align="center">
 
+### 💡 Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<br/><br/>
+
 <!-- 访客计数器 -->
 <img src="https://komarev.com/ghpvc/?username=pettyboy-hue&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+⭐ **From [pettyboy-hue](https://github.com/pettyboy-hue)** — 如果你也觉得有趣，欢迎 Star!
 
 <!-- 底部渐变 -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
