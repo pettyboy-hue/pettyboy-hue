@@ -1,155 +1,212 @@
 <div align="center">
 
-<!-- 顶部渐变 Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20there%20👋%20I'm%20Pettyboy&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<!-- ═══════════════════════════════════════════════════════════════════
+     ██████╗ ███████╗████████╗████████╗██╗   ██╗██████╗  ██████╗ ██╗   ██╗
+     ██╔══██╗██╔════╝╚══██╔══╝╚══██╔══╝╚██╗ ██╔╝██╔══██╗██╔═══██╗╚██╗ ██╔╝
+     ██████╔╝█████╗     ██║      ██║    ╚████╔╝ ██████╔╝██║   ██║ ╚████╔╝
+     ██╔═══╝ ██╔══╝     ██║      ██║     ╚██╔╝  ██╔══██╗██║   ██║  ╚██╔╝
+     ██║     ███████╗   ██║      ██║      ██║   ██████╔╝╚██████╔╝   ██║
+     ╚═╝     ╚══════╝   ╚═╝      ╚═╝      ╚═╝   ╚═════╝  ╚═════╝    ╚═╝
+     ══════════════════════════════════════════════════════════════════ -->
 
-<!-- 动态打字效果 -->
+<!-- 赛博朋克渐变 Banner：深紫→青→蓝 -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,10:161b22,30:1a1b4b,50:2d1b69,70:0d9488,100:06b6d4&height=200&section=header&text=⟨%20PETTYBOY%20/%20⟩&fontSize=42&fontColor=00ffcc&animation=fadeIn&fontAlignY=35&desc=SYSTEM%20ONLINE%20▸%20INITIALIZING...&descSize=14&descColor=58a6ff&descAlignY=55"/>
+
+<!-- 科技感打字动画：Matrix 绿 + Hacker 风格 -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Flutter+%7C+React+%7C+Python+%7C+Node.js;AI+Enthusiast+%26+Voice+Assistant+Builder+%F0%9F%A4%96;%E5%85%88%E8%B7%91%E8%B5%B7%E6%9D%A5%EF%BC%8C%E5%86%8D%E6%85%A2%E6%85%A2%E4%BC%98%E5%8C%96+%F0%9F%9A%80;while(alive)+%7B+eat()+sleep()+code()+%7D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%24+./init_developer.sh+--mode%3Dfull-stack;%3E%3E+Loading+modules%3A+Flutter+%7C+React+%7C+Python+%7C+AI;%3E%3E+Status%3A+OPERATIONAL+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- 社交徽章 -->
-[![GitHub](https://img.shields.io/badge/GitHub-pettyboy--hue-181717?style=for-the-badge&logo=github)](https://github.com/pettyboy-hue)
-[![Email](https://img.shields.io/badge/Email-1531137627@qq.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1531137627@qq.com)
-[![Bilibili](https://img.shields.io/badge/Bilibili-关注我-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/)
+<!-- 科技风社交徽章：统一暗色系 + 霓虹边框效果 -->
+[![GitHub](https://img.shields.io/badge/-%40pettyboy--hue-0d1117?style=flat-square&logo=github&logoColor=00ffcc)](https://github.com/pettyboy-hue)
+&nbsp;
+[![Email](https://img.shields.io/badge/-1531137627%40qq.com-0d1117?style=flat-square&logo=gmail&logoColor=ff6b6b)](mailto:1531137627@qq.com)
+&nbsp;
+[![Bilibili](https://img.shields.io/badge/-Bilibili-0d1117?style=flat-square&logo=bilibili&logoColor=00a1d6)](https://space.bilibili.com/)
 
 </div>
 
----
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ SYSTEM BOOT ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
-<!-- 终端风格自我介绍 -->
-### 💻 `$ whoami`
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
 
-```bash
-pettyboy@github:~$ neofetch
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;`SYS.BOOT` — 系统启动序列
+
+```js
+// ═══════════════════════════════════════════════════════════
+//  PETTYBOY SYSTEM v3.1.4 — BOOT SEQUENCE INITIATED
+// ═══════════════════════════════════════════════════════════
+
+const developer = {
+    identity: {
+        name:      "Pettyboy",
+        title:     "Full Stack Developer & AI Enthusiast",
+        location:  "China 🇨🇳",
+        timezone:  "UTC+8",
+    },
+    
+    current_mission: {
+        primary:   "反诈 App — Flutter 跨平台开发",
+        secondary: "J.A.R.V.I.S. — AI 语音助手系统",
+        research:  "AI Agents / LLM 应用落地",
+    },
+    
+    tech_stack: {
+        languages:  ["Python", "Dart", "JavaScript", "TypeScript", "C++", "Rust", "Java"],
+        frontend:   ["Flutter", "React", "Next.js"],
+        backend:    ["FastAPI", "Node.js", "Express"],
+        devops:     ["Docker", "Nginx", "Linux", "CI/CD"],
+        databases:  ["MySQL", "Redis", "MongoDB"],
+        ai_ml:      ["OpenAI", "Claude", "LangChain", "Whisper"],
+    },
+    
+    philosophy: "先跑起来，再慢慢优化 🚀",
+    
+    status: () => "OPERATIONAL ██████████ 100%"
+};
+
+// [✓] All systems nominal. Welcome, Commander.
 ```
 
-```
-                    ██████████████                pettyboy@earth
-                ████              ████            ──────────────
-              ██                      ██          🏷️  Name:     Pettyboy
-            ██                          ██        💼  Role:     Full Stack Developer
-          ██      ████          ████      ██      📍  Location: China 🇨🇳
-          ██    ██    ██      ██    ██    ██      🎂  Status:   Alive & Coding
-        ██      ██    ██      ██    ██      ██    ☕  Fuel:     Coffee × ∞
-        ██        ████          ████        ██    
-        ██                                  ██    🔭  Working:  反诈 App / J.A.R.V.I.S.
-        ██      ██                  ██      ██    🌱  Learning: Rust / AI Agents
-          ██      ████████████████        ██      🎯  Focus:    跨平台 / AI 应用 / 安全
-          ██                              ██      💬  Ask me:   Flutter, Python, Linux
-            ██                          ██        🐧  OS:       Arch Linux (btw)
-              ████                  ████          🎮  Hobbies:  逆向 / CTF / 摸鱼
-                  ████████████████                ⚡  Motto:    "先跑起来，再慢慢优化"
-```
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
 
----
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ NEURAL NETWORK ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
-### 🎯 Skill Radar
+### ⚡ `CORE.SKILLS` — 技能矩阵
 
 <div align="center">
 
 ```
-              ★ Flutter / Dart ★
-                    ████████████████████░  95%
-              ★ Python / FastAPI ★
-                    ███████████████████░░  90%
-              ★ JavaScript / TS ★
-                    ██████████████████░░░  85%
-              ★ React / Node.js ★
-                    ██████████████████░░░  85%
-              ★ Linux / DevOps ★
-                    █████████████████░░░░  80%
-              ★ C++ / Rust ★
-                    ████████████████░░░░░  75%
-              ★ Reverse Eng ★
-                    ██████████████░░░░░░░  65%
-              ★ AI / LLM ★
-                    ███████████████░░░░░░  70%
+╔══════════════════════════════════════════════════════════════════╗
+║                    ⟨ SKILL MATRIX v2.0 ⟩                        ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  ▸ Flutter / Dart    [████████████████████░]  95%  ◉ MASTERED   ║
+║  ▸ Python / FastAPI  [███████████████████░░]  90%  ◉ MASTERED   ║
+║  ▸ JavaScript / TS   [██████████████████░░░]  85%  ◉ ADVANCED   ║
+║  ▸ React / Node.js   [██████████████████░░░]  85%  ◉ ADVANCED   ║
+║  ▸ Linux / DevOps    [█████████████████░░░░]  80%  ◉ ADVANCED   ║
+║  ▸ C++ / Rust        [████████████████░░░░░]  75%  ○ PROFICIENT ║
+║  ▸ AI / LLM          [███████████████░░░░░░]  70%  ○ PROFICIENT ║
+║  ▸ Reverse Eng       [██████████████░░░░░░░]  65%  ○ LEARNING   ║
+║                                                                  ║
+║  [SYS] Skill points allocated: 645 / 800                        ║
+║  [SYS] Next level: Senior Architect — ETA: Loading...           ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
 
-### 🚀 Featured Projects
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ TECH ARSENAL ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
+### 🔮 `LOAD.ARSENAL` — 技术武器库
+
+<div align="center">
+
+**`[ LANGUAGES ]`**
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ffcc)
+![Dart](https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=00ffcc)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00ffcc)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00ffcc)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00ffcc)
+![Rust](https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=00ffcc)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=00ffcc)
+
+**`[ FRAMEWORKS & RUNTIME ]`**
+
+![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=06b6d4)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=06b6d4)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=06b6d4)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=06b6d4)
+
+**`[ INFRASTRUCTURE ]`**
+
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=a855f7)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=a855f7)
+![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=a855f7)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=a855f7)
+
+**`[ DATABASES ]`**
+
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=ff6b6b)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=ff6b6b)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=ff6b6b)
+
+**`[ AI / ML ]`**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=c084fc)
+![Claude](https://img.shields.io/badge/Claude-0d1117?style=for-the-badge&logo=anthropic&logoColor=c084fc)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=c084fc)
+
+</div>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
+
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ MISSION BRIEFING ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
+### 🚀 `ACTIVE.MISSIONS` — 进行中的项目
 
 <div align="center">
 
 <a href="https://github.com/pettyboy-hue/jarvis-voice-assistant">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=pettyboy-hue&repo=jarvis-voice-assistant&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B6B" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=pettyboy-hue&repo=jarvis-voice-assistant&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=a855f7&text_color=8b949e" />
 </a>
 
 </div>
 
-> 🔨 更多项目正在路上… Stay tuned!
-
----
-
-### 🛠️ Tech Stack
-
 <div align="center">
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Frameworks & Tools**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**AI & ML**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+```
+┌─────────────────────────────────────────────────────────────┐
+│  [MISSION LOG]                                              │
+│                                                             │
+│  ▸ 反诈 App ................ STATUS: IN PROGRESS  [██████░] │
+│  ▸ J.A.R.V.I.S. ........... STATUS: ACTIVE       [████████] │
+│  ▸ AI Context System ....... STATUS: OPERATIONAL  [████████] │
+│  ▸ ??? ..................... STATUS: CLASSIFIED    [░░░░░░░] │
+│                                                             │
+│  > More missions deploying soon... Stand by.                │
+└─────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
 
-### 📊 GitHub Stats
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ SYSTEM TELEMETRY ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
+### 📡 `SYS.TELEMETRY` — 系统遥测数据
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pettyboy-hue&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pettyboy-hue&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pettyboy-hue&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=a855f7&text_color=8b949e&ring_color=00ffcc&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pettyboy-hue&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=8b949e&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pettyboy-hue&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pettyboy-hue&hide_border=true&background=0d1117&stroke=00ffcc&ring=a855f7&fire=ff6b6b&currStreakLabel=00ffcc&sideLabels=00ffcc&currStreakNum=8b949e&sideNums=8b949e&dates=484f58" />
 </div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
 
-### 🏆 GitHub Trophies
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ACHIEVEMENTS ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
+### 🏆 `UNLOCK.ACHIEVEMENTS` — 成就解锁
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pettyboy-hue&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pettyboy-hue&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" />
 </div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
 
-### 🐍 Contribution Snake
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ SNAKE ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
+### 🐍 `RENDER.SNAKE` — 贡献贪吃蛇
 
 <div align="center">
   <picture>
@@ -159,109 +216,152 @@ pettyboy@github:~$ neofetch
   </picture>
 </div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
 
-### 📈 Activity Graph
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ACTIVITY ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
+### 📈 `MAP.ACTIVITY` — 活跃度热力图
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pettyboy-hue&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pettyboy-hue&bg_color=0d1117&color=00ffcc&line=a855f7&point=ff6b6b&area=true&area_color=00ffcc15&hide_border=true&custom_title=⟨%20COMMIT%20FREQUENCY%20ANALYSIS%20⟩" />
 </div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
 
-### 😂 Random Dev Meme
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ SYSTEM DIAGNOSTICS ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
+### 🖥️ `RUN.DIAGNOSTICS` — 系统诊断
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&qColor=%2358A6FF&aColor=%23FF6B6B" alt="Jokes Card" />
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║               ⟨ SYSTEM DIAGNOSTICS v1.0 ⟩                    ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  [CPU]  Coding Power    ▰▰▰▰▰▰▰▰▱▱  80%   ● NOMINAL      ║
+║  [RAM]  Knowledge Base  ▰▰▰▰▰▰▰▱▱▱  70%   ● EXPANDING    ║
+║  [GPU]  Creativity      ▰▰▰▰▰▰▰▰▰▱  90%   ● OVERCLOCKED  ║
+║  [SSD]  Project Storage ▰▰▰▰▰▰▱▱▱▱  60%   ● AVAILABLE    ║
+║  [NET]  Connection      ▰▰▰▰▰▰▰▰▰▰  MAX   ● ONLINE       ║
+║  [PWR]  Coffee Level    ▰▰▰▰▰▰▰▰▰▰  MAX   ● CRITICAL ☕  ║
+║  [TMP]  摸鱼指数        ▰▰▰▰▰▰▰▰▰▱  90%   ● WARNING ⚠️   ║
+║                                                              ║
+║  ┌──────────────────────────────────────────────────────┐    ║
+║  │ UPTIME: 20+ years │ OS: Arch Linux │ SHELL: zsh     │    ║
+║  │ EDITOR: VS Code   │ THEME: Tokyo Night │ ☕: ∞      │    ║
+║  └──────────────────────────────────────────────────────┘    ║
+║                                                              ║
+║  [✓] All systems operational. No critical errors detected.   ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
 </div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
+
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ DEV HUMOR ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
+### 😂 `LOAD.HUMOR` — 随机笑话生成器
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical&qColor=%2300ffcc&aColor=%23ff6b6b&bgColor=%230d1117&borderColor=%2300ffcc" alt="Jokes Card" />
+</div>
+
+<br/>
 
 <div align="center">
 
-### 💡 Random Dev Quote
+### 💡 `ECHO.WISDOM` — 每日随机名言
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
 
-<br/><br/>
+</div>
 
-### 🎵 Vibing to
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
 
-> *"Any application that can be written in JavaScript, will eventually be written in JavaScript."* — Jeff Atwood
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ SECRET ZONE ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
-<br/>
+<div align="center">
 
-<!-- 有趣的状态指示器 -->
-<table>
-  <tr>
-    <td align="center">🔋 Energy</td>
-    <td align="center">████████░░ 80%</td>
-  </tr>
-  <tr>
-    <td align="center">☕ Coffee</td>
-    <td align="center">██████████ MAX</td>
-  </tr>
-  <tr>
-    <td align="center">🐟 摸鱼</td>
-    <td align="center">█████████░ 90%</td>
-  </tr>
-  <tr>
-    <td align="center">💻 Coding</td>
-    <td align="center">███████░░░ 70%</td>
-  </tr>
-  <tr>
-    <td align="center">🧠 Brain</td>
-    <td align="center">██████░░░░ 60%</td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- 有趣的 GIF -->
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
-<br/><br/>
-
-<!-- 访客计数器 -->
-<img src="https://komarev.com/ghpvc/?username=pettyboy-hue&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
-
-<br/><br/>
-
-⭐ **From [pettyboy-hue](https://github.com/pettyboy-hue)** — 如果你也觉得有趣，欢迎 Star!
-
-<br/>
-
-<!-- 彩蛋：Konami Code -->
 <details>
-<summary>🎮 Secret Zone — 点击展开隐藏彩蛋</summary>
+<summary> <code>🔐 ACCESS.RESTRICTED</code> — 机密区域 [需要权限]  ▸▸▸ 点击解锁 ◂◂◂ </summary>
+
 <br/>
 
 ```
- ██████╗  █████╗ ███╗   ███╗███████╗     ██████╗ ██╗   ██╗███████╗██████╗ 
-██╔════╝ ██╔══██╗████╗ ████║██╔════╝    ██╔═══██╗██║   ██║██╔════╝██╔══██╗
-██║  ███╗███████║██╔████╔██║█████╗      ██║   ██║██║   ██║█████╗  ██████╔╝
-██║   ██║██╔══██║██║╚██╔╝██║██╔══╝      ██║   ██║╚██╗ ██╔╝██╔══╝  ██╔══██╗
-╚██████╔╝██║  ██║██║ ╚═╝ ██║███████╗    ╚██████╔╝ ╚████╔╝ ███████╗██║  ██║
- ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝     ╚═════╝   ╚═══╝  ╚══════╝╚═╝  ╚═╝
+═══════════════════════════════════════════════════════════════
+  ██████╗ ██╗      █████╗ ███████╗███████╗██╗███████╗██╗███████╗██████╗
+ ██╔════╝██║     ██╔══██╗██╔════╝██╔════╝██║██╔════╝██║██╔════╝██╔══██╗
+ ██║     ██║     ███████║███████╗███████╗██║█████╗  ██║█████╗  ██║  ██║
+ ██║     ██║     ██╔══██║╚════██║╚════██║██║██╔══╝  ██║██╔══╝  ██║  ██║
+ ╚██████╗███████╗██║  ██║███████║███████║██║██║     ██║███████╗██████╔╝
+  ╚═════╝╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝╚═╝     ╚═╝╚══════╝╚═════╝
+═══════════════════════════════════════════════════════════════
 ```
 
-🏆 恭喜你发现了隐藏区域！
+**`[DECRYPTING] 机密档案加载中...`**
 
-**一些关于我的冷知识：**
-- 🔧 第一行代码是用 Python 写的 `print("Hello World")`
-- 🎮 曾经因为想做游戏外挂而学会了逆向工程
-- 🤖 J.A.R.V.I.S. 这个名字确实是致敬钢铁侠
-- 🐛 Debug 的时候听的最多的歌是 Lo-Fi Hip Hop
-- 📱 手机里装了 3 个不同的终端模拟器
-- 🌙 最高效的编码时间是凌晨 2-5 点
+```
+> 0x01  第一行代码: print("Hello World")  — Python, 很久以前的某个深夜
+> 0x02  学逆向的原因: 想做游戏外挂（别举报我）
+> 0x03  J.A.R.V.I.S. 命名: 是的，致敬钢铁侠，梦想是做 Tony Stark
+> 0x04  Debug BGM: Lo-Fi Hip Hop Radio 📻 无限循环
+> 0x05  手机终端: 装了 3 个不同的终端模拟器（别问为什么）
+> 0x06  最强编码时段: 02:00 - 05:00 AM（夜猫子属性 MAX）
+> 0x07  Arch Linux 用户: I use Arch btw. （必须说）
+> 0x08  隐藏技能: 能用 vim 退出（不是所有人都能做到的）
+```
+
+**`[ENCRYPTED MESSAGE]`**
+```
+01010100 01101000 01100001 01101110 01101011 01110011
+00100000 01100110 01101111 01110010 00100000 01110110
+01101001 01110011 01101001 01110100 01101001 01101110 
+01100111 00100001
+```
+> *提示：这是二进制，解密后有惊喜* 😏
+
+<br/>
 
 <img src="https://media.giphy.com/media/3oKIPnAiaMCJ8rJBIc/giphy.gif" width="200"/>
 
-*"你已经是一个成熟的开发者了，要学会自己 Debug。"*
+*`> "你已经是一个成熟的开发者了，要学会自己 Debug。"`*
+
+**`[ACCESS LOG] 你已被记录。欢迎，同道中人。`** 🫡
 
 </details>
 
-<!-- 底部渐变 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+</div>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
+
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ FOOTER ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
+<div align="center">
+
+```
+ ╔════════════════════════════════════════════════════════════╗
+ ║  > CONNECTION ESTABLISHED                                  ║
+ ║  > 如果你也是深夜写代码的人，欢迎 Star ⭐ 或者打个招呼    ║
+ ║  > Let's build something amazing together.                 ║
+ ╚════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+<!-- 访客计数器 -->
+<img src="https://komarev.com/ghpvc/?username=pettyboy-hue&style=for-the-badge&color=0d1117&label=VISITORS&labelColor=0d1117" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/stars/pettyboy-hue/pettyboy-hue?style=for-the-badge&color=0d1117&labelColor=0d1117&logo=github&logoColor=00ffcc&label=STARS" />
+
+<br/><br/>
+
+*`⟨ SYSTEM SHUTDOWN — SEE YOU IN THE NEXT COMMIT ⟩`*
+
+<br/>
+
+<!-- 底部渐变：与顶部呼应 -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,30:0d9488,50:2d1b69,70:1a1b4b,90:161b22,100:0d1117&height=150&section=footer"/>
 
 </div>
