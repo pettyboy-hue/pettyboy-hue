@@ -1,24 +1,12 @@
 <div align="center">
 
-<!-- ═══════════════════════ HEADER ═══════════════════════ -->
+<!-- ═══════════════════ BANNER ═══════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:8b0000,40:1a1b4b,60:7c3aed,80:06b6d4,100:0d1117&height=220&section=header&text=PETTYBOY&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%E2%9A%A1%20Full%20Stack%20Developer%20%20%E2%80%A2%20%20Avenger-Level%20Coder%20%20%E2%80%A2%20%20Open%20Source&descSize=14&descColor=ff6b6b&descAlignY=56"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b4b,25:8b0000,50:7c3aed,75:06b6d4,100:1a1b4b&height=200&section=header&text=P%20E%20T%20T%20Y%20B%20O%20Y&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=33&desc=⚡%20Full%20Stack%20Developer%20%20•%20%20Marvel%20Fan%20%20•%20%20Open%20Source%20Hero&descSize=14&descColor=ff6b6b&descAlignY=55"/>
 
-<!-- 蜘蛛侠 + 钢铁侠 动画表情 -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Superhero.png" width="50"/>
-&ensp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spider.png" width="30"/>
-&ensp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="30"/>
-&ensp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="30"/>
-&ensp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Superhero.png" width="50"/>
-
-<br/>
-
+<!-- 打字动画 -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=FF6B6B&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=45&lines=%22I+am+Iron+Man.%22+%E2%80%94+Tony+Stark+%F0%9F%A6%BE;%22With+great+power+comes+great+responsibility.%22+%F0%9F%95%B7%EF%B8%8F;%24+jarvis.py+--assemble+avengers+%F0%9F%9B%A1%EF%B8%8F;Deploying+Stark+Industries+tech+stack...+%E2%9A%A1;while(alive)+%7B+eat()+sleep()+code()+save_world()+%7D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1500&color=FF6B6B&center=true&vCenter=true&repeat=true&width=620&height=40&lines=%22I+am+Iron+Man.%22+%E2%80%94+Tony+Stark+%F0%9F%A6%BE;%22With+great+power+comes+great+responsibility.%22+%F0%9F%95%B7%EF%B8%8F;while(alive)+%7B+eat()+sleep()+code()+save_world()+%7D;%24+jarvis+--deploy+stark-industries+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -28,133 +16,107 @@
   <img src="https://custom-icon-badges.demolab.com/github/followers/pettyboy-hue?style=for-the-badge&logo=person-add&logoColor=white&label=Followers&labelColor=8b0000&color=1a1b4b"/>
 </a>&ensp;
 <a href="https://github.com/pettyboy-hue?tab=repositories&sort=stargazers">
-  <img src="https://custom-icon-badges.demolab.com/github/stars/pettyboy-hue?style=for-the-badge&logo=star&logoColor=white&label=Stars&labelColor=06b6d4&color=0d4f61"/>
+  <img src="https://custom-icon-badges.demolab.com/github/stars/pettyboy-hue?style=for-the-badge&logo=star&logoColor=white&label=Stars&labelColor=7c3aed&color=4c1d95"/>
 </a>&ensp;
-<img src="https://komarev.com/ghpvc/?username=pettyboy-hue&style=for-the-badge&color=0d1117&label=VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=pettyboy-hue&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS"/>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════ ABOUT: STARK INDUSTRIES STYLE ═══════════════════════ -->
+<!-- ═══════════════════ ABOUT ME: 双栏布局 ═══════════════════ -->
 
-## 🦾 S.T.A.R.K. Industries — Developer Profile
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> *"Sometimes you gotta run before you can walk."* — Tony Stark
+### 🦾 About Me
 
 ```js
-// ===== JARVIS SYSTEM BOOT v3.0 =====
-// Status: ARC Reactor Online ⚡
-// Armor Integrity: 100%
-
-const avenger = {
-    codename:    "PETTYBOY",
-    realBase:    "China 🇨🇳",
-    class:       "Full Stack Developer | AI Enthusiast | Open Source Hero",
-    
-    // 🕷️ Spider-Sense: 技术感知
-    currentMission:  "Building 反诈 App with Flutter",
-    sideProject:     "J.A.R.V.I.S. — AI Voice Assistant",
-    
-    // 🦾 Iron Man: 持续进化
-    upgrades:    ["AI Agents", "LLM Applications", "Rust"],
-    
-    // 🛡️ Captain America: 核心信条
-    philosophy:  "先跑起来，再慢慢优化 — Ship it! 🚀",
-    
-    // 🕷️ Peter Parker 附体
-    fun_fact:    "I can exit Vim. With great power comes great responsibility.",
-    
-    // ⚡ Thor: 能量等级
-    caffeine_level:  "☕☕☕☕☕ OVER 9000",
+// JARVIS SYSTEM v3.0 — ARC Reactor Online ⚡
+const hero = {
+  name:     "PETTYBOY",
+  base:     "China 🇨🇳",
+  role:     "Full Stack Dev × AI Enthusiast",
+  mission:  "反诈 App (Flutter)",
+  side:     "J.A.R.V.I.S. Voice Assistant",
+  learning: ["AI Agents", "LLM Apps", "Rust"],
+  motto:    "先跑起来，再慢慢优化 🚀",
 };
 ```
 
+<sub>☕ Caffeine Level: OVER 9000 &ensp;|&ensp; 🌙 Best Hours: 02:00-05:00 AM</sub>
+
+</td>
+<td width="50%" valign="top" align="center">
+
 <br/>
 
-<!-- ═══════════════════════ TECH STACK: INFINITY STONES ═══════════════════════ -->
+<img width="300" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Technologist%20Light%20Skin%20Tone.png"/>
 
-## ⚡ Tech Arsenal — *"Suit Up!"*
+<br/><br/>
 
-> 每一项技术，都是战甲的一部分 🦾
+<!-- 修仙卡片：中国特色！ -->
+<a href="https://github.com/IceEnd/github-immortality">
+  <img src="https://github-immortality.vercel.app/api?username=pettyboy-hue" alt="修仙等级"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════ TECH STACK ═══════════════════ -->
 
 <div align="center">
 
-<!-- 语言：无限宝石 -->
-**`🔴 Power Stone: Languages`**
-<br/>
+### ⚡ Tech Arsenal — *"Suit Up!"*
+
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,dart,js,ts,cpp,rust,java&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,dart,js,ts,cpp,rust,java,flutter,react,nextjs,fastapi,nodejs&perline=12&theme=dark" />
 </a>
 
 <br/>
 
-**`🟠 Soul Stone: Frameworks`**
-<br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,fastapi,nodejs,express&theme=dark" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,vscode,neovim,mysql,redis,mongodb,sqlite&perline=11&theme=dark" />
 </a>
 
 <br/>
 
-**`🟡 Mind Stone: DevOps & Tools`**
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,vscode,neovim&theme=dark" alt="Tools" />
-</a>
-
-<br/>
-
-**`🟢 Time Stone: Databases`**
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,redis,mongodb,sqlite&theme=dark" alt="Databases" />
-</a>
-
-<br/>
-
-**`🔵 Space Stone: AI & Cloud`**
-<br/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════ PROJECTS: AVENGERS MISSIONS ═══════════════════════ -->
-
-## 🛡️ Mission Log — *"Avengers, Assemble!"*
+<!-- ═══════════════════ PROJECTS ═══════════════════ -->
 
 <div align="center">
+
+### 🛡️ Featured Projects — *"Avengers, Assemble!"*
 
 <table>
 <tr>
 <td align="center" width="50%">
 
-**🤖 Project J.A.R.V.I.S.**
-<br/>
-*"Just A Rather Very Intelligent System"*
-<br/><br/>
 <a href="https://github.com/pettyboy-hue/jarvis-voice-assistant">
-  <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=pettyboy-hue&repo=jarvis-voice-assistant&theme=react&bg_color=0d1117&title_color=ff6b6b&hide_border=true&icon_color=06b6d4" alt="JARVIS"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=pettyboy-hue&repo=jarvis-voice-assistant&theme=tokyonight&hide_border=true&icon_color=ff6b6b&title_color=ff6b6b&bg_color=0d1117"/>
 </a>
 <br/>
-<sub>🦾 就像 Tony Stark 的 AI 管家一样</sub>
+<sub>🦾 <i>"Just A Rather Very Intelligent System"</i></sub>
 
 </td>
 <td align="center" width="50%">
 
-**🕸️ Web-Slinger Profile**
-<br/>
-*"Your Friendly Neighborhood README"*
-<br/><br/>
 <a href="https://github.com/pettyboy-hue/pettyboy-hue">
-  <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=pettyboy-hue&repo=pettyboy-hue&theme=react&bg_color=0d1117&title_color=ff6b6b&hide_border=true&icon_color=06b6d4" alt="Profile"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=pettyboy-hue&repo=pettyboy-hue&theme=tokyonight&hide_border=true&icon_color=06b6d4&title_color=06b6d4&bg_color=0d1117"/>
 </a>
 <br/>
-<sub>🕷️ 这个你正在看的页面</sub>
+<sub>🕷️ <i>"Your Friendly Neighborhood README"</i></sub>
 
 </td>
 </tr>
@@ -164,11 +126,95 @@ const avenger = {
 
 <br/>
 
-<!-- ═══════════════════════ SMART SECTION: RECENT ACTIVITY ═══════════════════════ -->
+<!-- ═══════════════════ STATS: 紧凑双栏 ═══════════════════ -->
 
-## 📡 Real-Time Activity Feed
+<div align="center">
 
-> 🤖 *自动更新 — 由 GitHub Actions 驱动（就像 JARVIS 监控系统）*
+### 📊 S.H.I.E.L.D. Analytics
+
+<!-- Profile Detail 全宽 -->
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pettyboy-hue&theme=tokyonight"/>
+
+<br/>
+
+<!-- 三卡片一行 -->
+<img width="31.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pettyboy-hue&theme=tokyonight"/>
+<img width="31.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pettyboy-hue&theme=tokyonight"/>
+<img width="31.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pettyboy-hue&theme=tokyonight"/>
+
+<br/>
+
+<!-- Streak + 活跃时间 双栏 -->
+<img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=pettyboy-hue&hide_border=true&background=1a1b27&stroke=1a1b4b&ring=ff6b6b&fire=06b6d4&currStreakLabel=ff6b6b&sideLabels=ff6b6b&currStreakNum=c0caf5&sideNums=c0caf5&dates=484f58"/>
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pettyboy-hue&theme=tokyonight&utcOffset=8"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════ TROPHIES ═══════════════════ -->
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=pettyboy-hue&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=7"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════ SNAKE ═══════════════════ -->
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pettyboy-hue/pettyboy-hue/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pettyboy-hue/pettyboy-hue/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/pettyboy-hue/pettyboy-hue/output/github-snake-dark.svg" width="95%"/>
+</picture>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════ 3D CONTRIB ═══════════════════ -->
+
+<div align="center">
+
+### 🏔️ 3D Contribution Map
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-south-season-animate.svg" />
+  <img alt="3D Contribution" src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%"/>
+</picture>
+
+<sub>🔄 Auto-updated daily by Stark Industries AI</sub>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════ ACTIVITY GRAPH ═══════════════════ -->
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=pettyboy-hue&bg_color=0d1117&color=ff6b6b&line=06b6d4&point=ff6b6b&area=true&area_color=7c3aed15&hide_border=true&custom_title=📈%20Commit%20Activity"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════ SMART SECTIONS ═══════════════════ -->
+
+<div align="center">
+
+### 📡 Live Activity Feed
+
+> 🤖 *Auto-updated every 30 min by JARVIS*
+
+</div>
 
 <!--START_SECTION:activity-->
 1. 🎉 Created this awesome profile!
@@ -177,133 +223,65 @@ const avenger = {
 
 <br/>
 
-<!-- ═══════════════════════ SMART SECTION: WAKATIME ═══════════════════════ -->
+<div align="center">
 
-## ⏱️ Weekly Dev Metrics — *"JARVIS, show me the stats"*
+### ⏱️ Weekly Coding Stats — *"JARVIS, how long was I coding?"*
 
-> 🤖 *数据来自 WakaTime — 每天自动刷新*
+</div>
 
 <!--START_SECTION:waka-->
 ```txt
-🔧 Setup Required — 配置 WakaTime 后这里会自动显示：
-📊 本周编码时间  |  🌅 你是早起鸟还是夜猫子
-💻 最常用编辑器  |  🗣️ 最常用语言
-📁 最活跃项目    |  🖥️ 操作系统占比
+🔧 Setup WakaTime to unlock live coding stats!
+📊 Weekly hours  |  🌅 Early bird or Night owl?
+💻 Top editor    |  🗣️ Top languages
+📁 Top project   |  🖥️ OS breakdown
 ```
 <!--END_SECTION:waka-->
 
 <br/>
 
-<!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
-
-## 📊 S.H.I.E.L.D. Analytics Dashboard
+<!-- ═══════════════════ INTERACTIVE ═══════════════════ -->
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pettyboy-hue&theme=tokyonight" width="95%"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pettyboy-hue&theme=tokyonight" width="31.5%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pettyboy-hue&theme=tokyonight" width="31.5%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pettyboy-hue&theme=tokyonight" width="31.5%"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pettyboy-hue&theme=tokyonight&utcOffset=8" width="47%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pettyboy-hue&hide_border=true&background=1a1b27&stroke=1a1b4b&ring=ff6b6b&fire=06b6d4&currStreakLabel=ff6b6b&sideLabels=ff6b6b&currStreakNum=c0caf5&sideNums=c0caf5&dates=484f58" width="47%"/>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════ 3D CONTRIBUTION ═══════════════════════ -->
-
-## 🏔️ 3D Contribution Map — *"JARVIS, render the terrain"*
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-south-season-animate.svg" />
-  <img alt="3D Contribution" src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%"/>
-</picture>
-
-<sub>🔄 每日自动更新 — Stark Industries AI 渲染</sub>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════ SNAKE ═══════════════════════ -->
-
-## 🐍 Contribution Snake — *"Why is it always snakes?"*
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pettyboy-hue/pettyboy-hue/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pettyboy-hue/pettyboy-hue/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/pettyboy-hue/pettyboy-hue/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
-<br/>
-
-<!-- ═══════════════════════ ACTIVITY GRAPH ═══════════════════════ -->
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=pettyboy-hue&bg_color=0d1117&color=ff6b6b&line=06b6d4&point=ff6b6b&area=true&area_color=8b000015&hide_border=true&custom_title=📈%20Commit%20Activity%20—%20Powered%20by%20ARC%20Reactor" />
-</div>
-
-<br/>
-
-<!-- ═══════════════════════ TROPHIES ═══════════════════════ -->
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pettyboy-hue&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=7" />
-</div>
-
-<br/>
-
-<!-- ═══════════════════════ INTERACTIVE: AVENGERS STYLE ═══════════════════════ -->
-
-## 🎮 Interactive Zone — *"Choose Your Hero"*
-
-<div align="center">
+### 🎮 Interactive Zone — *"Choose Your Hero"*
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 <a href="https://github.com/pettyboy-hue/pettyboy-hue/issues/new?title=GUESTBOOK%3A+%5Byour+name%5D&body=%F0%9F%95%B7%EF%B8%8F+Hey!+I%27m+%5Byour+name%5D%0A%F0%9F%93%8D+From%3A+%5Byour+location%5D%0A%F0%9F%92%AC+Message%3A+%5Bsay+something%5D&labels=guestbook">
-  <img width="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png"/>
-  <br/>
-  <b>🕷️ Sign the Web</b>
+  <img width="60" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png"/>
+  <br/><b>📝 Sign</b>
 </a>
-
-<sub>Leave your web-mark!</sub>
+<br/><sub>Leave your mark!</sub>
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-<a href="https://github.com/pettyboy-hue/pettyboy-hue/issues/new?title=CHALLENGE%3A+%5Btopic%5D&body=%E2%9A%94%EF%B8%8F+Avengers+level+challenge!%0A%0ATopic%3A+%5Bdescription%5D%0ALanguage%3A+%5Blanguage%5D&labels=challenge">
-  <img width="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Fencing.png"/>
-  <br/>
-  <b>⚔️ Challenge Me</b>
+<a href="https://github.com/pettyboy-hue/pettyboy-hue/issues/new?title=CHALLENGE%3A+%5Btopic%5D&body=%E2%9A%94%EF%B8%8F+I+challenge+you!%0A%0ATopic%3A+%5Bdescription%5D%0ALanguage%3A+%5Blanguage%5D&labels=challenge">
+  <img width="60" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Fencing.png"/>
+  <br/><b>⚔️ Challenge</b>
 </a>
-
-<sub>Avengers-level threats only!</sub>
+<br/><sub>Fight me!</sub>
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-<a href="https://github.com/pettyboy-hue/pettyboy-hue/issues/new?title=COLLAB%3A+%5Bidea%5D&body=%F0%9F%9B%A1%EF%B8%8F+Avengers+Assemble!%0A%0AIdea%3A+%5Bdescription%5D%0ATech%3A+%5Btech+stack%5D&labels=collaboration">
-  <img width="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png"/>
-  <br/>
-  <b>🛡️ Assemble</b>
+<a href="https://github.com/pettyboy-hue/pettyboy-hue/issues/new?title=COLLAB%3A+%5Bidea%5D&body=%F0%9F%9B%A1%EF%B8%8F+Let%27s+build+together!%0A%0AIdea%3A+%5Bdescription%5D%0ATech%3A+%5Btech+stack%5D&labels=collaboration">
+  <img width="60" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png"/>
+  <br/><b>🛡️ Collab</b>
 </a>
+<br/><sub>Assemble!</sub>
 
-<sub>Avengers, assemble!</sub>
+</td>
+<td align="center" width="25%">
+
+<a href="https://github.com/pettyboy-hue/pettyboy-hue/issues/new?title=FUNFACT%3A+%5Byour+fact%5D&body=%F0%9F%A4%AF+Here%27s+a+fun+fact!%0A%0A%5BYour+fact+here%5D&labels=funfact">
+  <img width="60" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png"/>
+  <br/><b>💡 Fun Fact</b>
+</a>
+<br/><sub>Share knowledge!</sub>
 
 </td>
 </tr>
@@ -311,86 +289,63 @@ const avenger = {
 
 <br/>
 
+<!-- 随机笑话 -->
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&qColor=%23ff6b6b&aColor=%2306b6d4&bgColor=%230d1117" alt="Jokes Card" />
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════ MARVEL QUOTES ═══════════════════════ -->
+<!-- ═══════════════════ MARVEL QUOTE ═══════════════════ -->
 
 <div align="center">
 
-> 🕷️ *"If you're nothing without the suit, then you shouldn't have it."* — Tony Stark to Peter Parker
+> 🕷️ *"If you're nothing without the suit, then you shouldn't have it."* — Tony Stark
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════ SECRET: THANOS SNAP ═══════════════════════ -->
+<!-- ═══════════════════ SECRET VAULT ═══════════════════ -->
 
 <div align="center">
 
 <details>
-<summary>&ensp;🔮&ensp;<b>The Infinity Vault</b>&ensp;—&ensp;*snap* to open&ensp;✨&ensp;</summary>
+<summary>&ensp;🔮&ensp;<b>The Infinity Vault</b>&ensp;—&ensp;<i>snap to open</i>&ensp;✨</summary>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Pinching%20Hand.png" width="60"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Dizzy.png" width="40"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="40"/>
+<img width="60" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Pinching%20Hand.png"/>
+<img width="40" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png"/>
 
 ```
- ╔══════════════════════════════════════════════════════╗
- ║       🧤 THE INFINITY GAUNTLET OF SECRETS 🧤        ║
- ╠══════════════════════════════════════════════════════╣
- ║                                                      ║
- ║  🔴 Power:  第一行代码 print("Hello World")          ║
- ║  🟠 Soul:   学逆向的原因 — 想做游戏外挂 🙈           ║
- ║  🟡 Mind:   命名 J.A.R.V.I.S. 因为想当 Tony Stark   ║
- ║  🟢 Time:   最佳编码时段 02:00-05:00 AM 🌙          ║
- ║  🔵 Space:  I use Arch btw.                          ║
- ║  🟣 Reality: 能用 Vim 退出（真的）                    ║
- ║                                                      ║
- ║  🕷️ Spider-Sense tells me you're a true Marvel fan   ║
- ║                                                      ║
- ║  "I love you 3000" — Morgan Stark 💜                 ║
- ║                                                      ║
- ╚══════════════════════════════════════════════════════╝
+ 🧤 THE INFINITY GAUNTLET OF SECRETS
+
+ 🔴 Power:  第一行代码 print("Hello World")
+ 🟠 Soul:   学逆向的原因 — 想做游戏外挂 🙈
+ 🟡 Mind:   命名 J.A.R.V.I.S. 因为想当 Tony Stark
+ 🟢 Time:   最佳编码时段 02:00-05:00 AM 🌙
+ 🔵 Space:  I use Arch btw.
+ 🟣 Reality: 能用 Vim 退出（真的）
+
+ "I love you 3000" — Morgan Stark 💜
 ```
 
 <br/>
 
-<table>
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spider.png" width="40"/>
-<br/><sub>Spider-Man</sub>
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="40"/>
-<br/><sub>Cap</sub>
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="40"/>
-<br/><sub>Thor</sub>
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Superhero.png" width="40"/>
-<br/><sub>Iron Man</sub>
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" width="40"/>
-<br/><sub>Hulk</sub>
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="40"/>
-<br/><sub>Deadpool?</sub>
-</td>
-</tr>
-</table>
+<img width="50" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spider.png"/>
+&ensp;
+<img width="50" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png"/>
+&ensp;
+<img width="50" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png"/>
+&ensp;
+<img width="50" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Superhero.png"/>
+&ensp;
+<img width="50" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png"/>
+&ensp;
+<img width="50" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png"/>
 
-*You've survived the snap. Welcome to the Avengers, fellow hero.* 🫡
+<sub>*You survived the snap. Welcome to the Avengers, fellow hero.* 🫡</sub>
 
 </details>
 
@@ -398,7 +353,7 @@ const avenger = {
 
 <br/>
 
-<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
+<!-- ═══════════════════ FOOTER ═══════════════════ -->
 
 <div align="center">
 
@@ -414,17 +369,17 @@ const avenger = {
   <img src="https://custom-icon-badges.demolab.com/github/followers/pettyboy-hue?style=for-the-badge&logo=person-add&logoColor=white&label=Join+the+Avengers&labelColor=8b0000&color=1a1b4b"/>
 </a>&ensp;
 <a href="https://github.com/pettyboy-hue?tab=repositories">
-  <img src="https://custom-icon-badges.demolab.com/badge/Repositories-Explore%20Stark%20Labs-06b6d4?style=for-the-badge&logo=repo&logoColor=white&labelColor=0d1117"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/-Explore%20Stark%20Labs-06b6d4?style=for-the-badge&logo=repo&logoColor=white&labelColor=0d1117"/>
 </a>
 
 <br/><br/>
 
-<sub>🤖 This profile is <b>self-updating</b> — powered by J.A.R.V.I.S. (GitHub Actions + WakaTime + 3D Contrib)</sub>
+<sub>🤖 This profile is <b>self-updating</b> — powered by JARVIS (GitHub Actions + WakaTime + 3D Contrib)</sub>
 <br/>
-<sub>🕷️ *"With great README comes great profile views"*</sub>
+<sub>🕷️ <i>"With great README comes great profile views"</i></sub>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:8b0000,40:1a1b4b,60:7c3aed,80:06b6d4,100:0d1117&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b4b,25:8b0000,50:7c3aed,75:06b6d4,100:1a1b4b&height=120&section=footer&animation=twinkling"/>
 
 </div>
